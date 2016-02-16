@@ -219,6 +219,15 @@
   population: 243,343
   contributed_by: Carl V. Lewis
   updated at: 2015-10-17
+  agency: City of Oakland 
+  state: CA
+  discretionary_threshold: $5,000
+  discretionary_url = 'http://www.oaklandnet.com/government/fwawebsite/accounting/Pdf/SellingtotheCityofOakland-REV7-17-03.pdf'
+  formal_threshold =  $50,000
+  formal_url = 'http://www.oaklandnet.com/government/fwawebsite/accounting/Pdf/SellingtotheCityofOakland-REV7-17-03.pdf'
+  population: 406,253
+  contributed_by: Chase A. Packard
+  updated_at: 2016-2-15
 - agency: City of Philadelphia
   state: PA
   type: City
